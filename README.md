@@ -11,3 +11,4 @@ then go to your app and let it work.
 Requirements:
 Python3
 pyautogui
+and colorama
