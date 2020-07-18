@@ -12,3 +12,9 @@ Requirements:
 Python3
 pyautogui
 and colorama
+
+
+
+
+
+demonstration: https://youtu.be/17mA9_sDNbg
