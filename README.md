@@ -6,3 +6,8 @@ open the app you want to spam,
 type python3 PhantomsecSpammer.py,
 choose a option,
 then go to your app and let it work.
+
+
+Requirements:
+Python3
+pyautogui
